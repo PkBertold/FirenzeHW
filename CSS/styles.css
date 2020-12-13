@@ -1,0 +1,43 @@
+body {
+    background: url('../Pics/hatterem3.jpg');
+	margin:0;
+	font-family: 'Oswald', sans-serif;
+}
+
+/*
+.kep1 {
+    background: url('../Pics/dom.jpg');
+    max-width: 100%;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+}
+*/
+
+/*
+.kep2 {
+    background: url('../Pics/palazzo.jpg');
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+}
+*/
+.box {
+	background-color:#e0def3;
+	width: 80%;
+	margin: auto;
+}
+
+.doboz {
+    margin: 0;
+}
+
+.doboz2 {
+    margin: 0;
+}
+
+.new {
+    width: 100%;
+}
